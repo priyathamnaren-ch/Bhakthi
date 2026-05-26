@@ -1,4 +1,5 @@
 
+#EXTM3U
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
@@ -9,7 +10,6 @@
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=598758&extension=ts
 #EXTINF:-1 tvg-id="1805583" tvg-logo="" group-title="India",|TELUGU| BHAKTI TV
 http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1805583.ts
-#EXTM3U
 #EXTINF:-1 tvg-id="6" tvg-logo="https://i.imgur.com/xv9cWSh.png" group-title="Live TV",Chithiram
 https://cdn-6.pishow.tv/live/1243/master.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ" group-title="Live TV",Dharsan TV
