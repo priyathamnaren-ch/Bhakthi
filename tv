@@ -7,3 +7,5 @@
 
 #EXTINF:-1 tvg-id="521" tvg-logo="https://tatalogo.pages.dev/521.png" group-title="Tamil", Sun TV HD
 http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=598758&extension=ts
+#EXTINF:-1 tvg-id="1805583" tvg-logo="" group-title="India",|TELUGU| BHAKTI TV
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1805583.ts
